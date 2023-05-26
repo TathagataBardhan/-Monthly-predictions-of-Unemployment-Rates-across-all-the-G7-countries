@@ -1,0 +1,2 @@
+# -Monthly-predictions-of-Unemployment-Rates-across-all-the-G7-countries
+Monthly predictions of unemployment rates are made across all the G7 countries - Canada, France, Germany, Italy, Japan, the United Kingdom, and the United States. Taking into consideration various factors that can affect the unemployment for a country, historical data of 20-30 years at monthly level were collected based on the availability.
